@@ -21,3 +21,15 @@
 + subhead font 16sp
 + body font 14sp
 + anno font 12sp
+
+## 常见阴影
+
++ 卡片阴影
+
+		0 1dp 1.5dp rgba(0, 0, 0, 0.12)
+		0 1dp 1dp rgba(0, 0, 0, 0.24)
+
++ 导航条阴影
+
+		0 3dp 3dp rgba(0, 0, 0, 0.16)
+		0 3dp 3dp rgba(0, 0, 0, 0.23)
