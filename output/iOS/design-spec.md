@@ -14,6 +14,7 @@
 + secondary text #757575
 + divider color rgb(0, 0, 0, 0.12)
 + hint color rgb(0, 0, 0, 0.24)
++ bg color #efeff4
  
 ## 字体
 
