@@ -15,6 +15,7 @@
 + divider color rgb(0, 0, 0, 0.12)
 + hint color rgb(0, 0, 0, 0.24)
 + bg color #efeff4
++ warning color #f44336
  
 ## 字体
 
