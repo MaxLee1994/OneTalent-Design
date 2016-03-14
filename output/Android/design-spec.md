@@ -16,6 +16,8 @@
 + hint color rgb(0, 0, 0, 0.24)
 + bg color #fafafa
 + warning color #f44336
++ blue #0076ff
+
 ## 字体
 
 + title font 20sp
