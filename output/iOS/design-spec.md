@@ -16,6 +16,7 @@
 + hint color rgb(0, 0, 0, 0.24)
 + bg color #efeff4
 + warning color #f44336
++ blue #0076ff
  
 ## 字体
 
